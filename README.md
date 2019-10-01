@@ -1,2 +1,2 @@
 # demo
-Previous projects
+Previous projects and course works
